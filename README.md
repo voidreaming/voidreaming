@@ -1,8 +1,10 @@
 <img src="./assets/mark.svg" width="76" alt="SW pixel mark" />
 
-# *There are many AI agents.*<br>*They should know when to act.*
+# Shouju Wang
 
-I'm **Shouju Wang**, a Computer Science Ph.D. student at the University of Hawaiʻi at Mānoa. I work on AI agents that remain useful while respecting privacy, social context, and human intent.
+## *Privacy, context, and alignment for AI agents.*
+
+I'm a Computer Science Ph.D. student at the University of Hawaiʻi at Mānoa. I study when and how AI agents should use information—especially in multimodal, socially situated environments.
 
 [Website](https://voidreaming.github.io/shouju-wang.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=ut74MgsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/shouju-wang-4b030a385/) · [Email](mailto:shoujuw@hawaii.edu)
 
