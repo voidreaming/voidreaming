@@ -1,43 +1,28 @@
-<img align="right" width="168" src="https://raw.githubusercontent.com/voidreaming/shouju-wang.github.io/master/images/avatar.jpg" alt="Shouju Wang" />
+<h2 align="center">Hi, I'm Shouju Wang</h2>
 
-<img width="54" src="./assets/mark.svg" alt="SW" />
+<p align="center">
+  <em>Computer Science Ph.D. student researching trustworthy AI agents</em>
+</p>
 
-# Shouju Wang
-
-**Computer Science Ph.D. student at the University of Hawaiʻi at Mānoa.**
-
-I research privacy, contextual integrity, and alignment for multimodal AI agents. Previously, I was a research intern at **Microsoft Research Asia** and **Zoom GenAI**, and a research assistant at Duke Kunshan University.
-
-[Website](https://voidreaming.github.io/shouju-wang.github.io/) &nbsp;·&nbsp; [Scholar](https://scholar.google.com/citations?user=ut74MgsAAAAJ) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shouju-wang-4b030a385/) &nbsp;·&nbsp; [Email](mailto:shoujuw@hawaii.edu)
-
-<br clear="right" />
+<p align="center">
+  <a href="https://voidreaming.github.io/shouju-wang.github.io/">Website</a> •
+  <a href="https://scholar.google.com/citations?user=ut74MgsAAAAJ">Google Scholar</a> •
+  <a href="https://www.linkedin.com/in/shouju-wang-4b030a385/">LinkedIn</a> •
+  <a href="mailto:shoujuw@hawaii.edu">Email</a>
+</p>
 
 ---
 
-`RESEARCH`
+I'm a Computer Science Ph.D. student at the **University of Hawaiʻi at Mānoa**, advised by Prof. Haopeng Zhang. My research focuses on **LLM privacy**, **contextual integrity**, **multimodal agents**, and **agent alignment**.
 
-## What I work on
+I study how AI agents can make appropriate decisions about sensitive information while remaining useful in realistic environments. Previously, I was a research intern at **Microsoft Research Asia** and **Zoom GenAI**, and a research assistant at **Duke Kunshan University**.
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><strong>Contextual integrity</strong><br><sub>Teaching agents to reason about appropriate information flow, not only access control.</sub></td>
-    <td width="33%" valign="top"><strong>Multimodal privacy</strong><br><sub>Evaluating how visual and textual information changes privacy decisions.</sub></td>
-    <td width="33%" valign="top"><strong>Agent alignment</strong><br><sub>Building useful agents that act safely in realistic, socially complex environments.</sub></td>
-  </tr>
-</table>
+### Selected research
 
-`SELECTED WORK`
+- **[MPCI-Bench](https://arxiv.org/abs/2601.08235)** — Multimodal pairwise contextual integrity evaluation for language-model agents.
+- **[Privacy in Action](https://aclanthology.org/2025.findings-emnlp.925/)** — Practical privacy mitigation and realistic evaluation for LLM-powered agents. *EMNLP 2025 Findings.*
+- **[DECAF-GAD](https://arxiv.org/abs/2508.10785)** — Fair autoencoders for node-level graph anomaly detection. *ECAI 2025 Oral.*
 
-## Recent research
+---
 
-| | Work | Focus |
-|:--|:--|:--|
-| **2026** | **[MPCI-Bench](https://arxiv.org/abs/2601.08235)** | Multimodal pairwise contextual integrity for language-model agents |
-| **2025** | **[Privacy in Action](https://aclanthology.org/2025.findings-emnlp.925/)** · *EMNLP Findings* | Practical privacy mitigation and realistic agent evaluation |
-| **2025** | **[DECAF-GAD](https://arxiv.org/abs/2508.10785)** · *ECAI Oral* | Fair autoencoders for graph anomaly detection |
-
-`ELSEWHERE`
-
-## Beyond research
-
-Literature, rock music, photography, and exploring new places.
+Outside research, I enjoy literature, rock music, photography, and exploring new places.
